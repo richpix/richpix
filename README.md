@@ -23,7 +23,6 @@
 <tr>
 <td width="60%">
 
-```rust
 fn main() {
     let me = SoftwareEngineer {
         name: "Ricardo",
