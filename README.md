@@ -23,8 +23,7 @@
 <tr>
 <td width="60%">
 
-
-´´´
+```bash
    fn main() {
     let me = SoftwareEngineer {
         name: "Ricardo",
@@ -34,8 +33,7 @@
         currently: "Crafting local-first AI-powered desktop experiences",
     };
    }
-´´´
-
+```
 🦀 Rustacean specializing in native desktop apps with Tauri v2
 
 ⚛️ Full-stack with React 19, Next.js 15 & TypeScript
