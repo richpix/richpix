@@ -22,8 +22,10 @@
 <table>
 <tr>
 <td width="60%">
----
-fn main() {
+
+
+´´´
+   fn main() {
     let me = SoftwareEngineer {
         name: "Ricardo",
         focus: vec!["Rust", "TypeScript", "AI"],
@@ -31,10 +33,9 @@ fn main() {
         passion: "Solving complex problems at any layer — frontend, backend, or systems",
         currently: "Crafting local-first AI-powered desktop experiences",
     };
-    
-    me.ship_code().await;
-}
----
+   }
+´´´
+
 🦀 Rustacean specializing in native desktop apps with Tauri v2
 
 ⚛️ Full-stack with React 19, Next.js 15 & TypeScript
